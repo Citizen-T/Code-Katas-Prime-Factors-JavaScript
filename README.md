@@ -9,7 +9,9 @@ The Rules
 Prime Factors is one of those math problem code katas.  The challenge is just to derive an algorithm that, given some positive integer n, will return a list representing the prime factors of n.
 
 ### Examples
+
 f(8) = [2, 2, 2]
+
 f(9) = [3, 3]
 
 The Code
