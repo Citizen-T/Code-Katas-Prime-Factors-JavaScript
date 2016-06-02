@@ -1,5 +1,5 @@
 {
-  "name": "prime_factors",
+  "name": "prime-factors-js",
   "version": "1.0.0",
   "description": "The Prime Factors code kata implementd in JavaScript",
   "main": "index.js",
@@ -7,11 +7,19 @@
     "test": "jasmine"
   },
   "author": "Michael Triantafelow",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "devDependencies": {
-    "jasmine": "^2.4.1",
-    "karma": "^0.13.22",
-    "karma-chrome-launcher": "^0.2.2",
-    "karma-jasmine": "^0.3.8"
-  }
+    "jasmine": "2.4.1",
+    "karma": "0.13.22",
+    "karma-chrome-launcher": "0.2.2",
+    "karma-jasmine": "0.3.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Citizen-T/prime-factors-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Citizen-T/prime-factors-js/issues"
+  },
+  "homepage": "https://github.com/Citizen-T/prime-factors-js#readme"
 }
